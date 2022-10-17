@@ -1,4 +1,4 @@
-#include "main.h"
+#include "ain.h"
 
 /**
  * print_char - prints character
